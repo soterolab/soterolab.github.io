@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SoteroLab
-description: Laboratório para incentivar a democratização e descolonização do pensamento científico
+description: Laboratório para discutir tecnologia, comunidades e pensamento científico.
 tagline: 
 ---
 Por pensamento científico entendemos a observação e a resolução de problemas de forma sistemática.
